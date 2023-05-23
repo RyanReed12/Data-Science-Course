@@ -9,5 +9,4 @@ My final project was focused on studying the relationship between economic facto
 ### &nbsp; -> EconomicFactors_and_Crime.ipynb
 &nbsp;&nbsp;&nbsp;&nbsp; -> Project code.
 ### &nbsp; -> EconomicFactors_and_Crime.pdf
-&nbsp;&nbsp;&nbsp;&nbsp; -> Official report of the project, we weren't specified a format nor was it supposed to be adhereing to technical writing, but I attempted to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; follow a rough deviation from APA format. You'll notice the inclusion of portions from my original project proposal, this was formatted
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; differently purposefully.
+&nbsp;&nbsp;&nbsp;&nbsp; -> Official report of the project, we weren't specified a format nor was it supposed to be adhereing to technical writing, but I attempted to follow a rough deviation from APA format. You'll notice the inclusion of portions from my original project proposal, this was formatted differently purposefully.
